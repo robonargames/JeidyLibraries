@@ -1,18 +1,16 @@
 {
   "name": "com.robonargames.jeidyutils",
   "version": "1.0.1",
-  "displayname": "Variable - Extensions",
-  "description": "Variable Extension Libraries",
+  "displayName": "Jeidy Utils",
+  "description": "Jeidy's Utils Library",
   "unity": "2020.3",
   "keywords": [
     "library",
-    "utility",
-    "variable"
+    "utility"    
   ],
   "author": {
     "name": "Jeidy",
     "email": "Jeidy@jeidy.com",
     "url": "http://"
-  },
-  "displayName": "JeidyUtils"
+  }
 }
