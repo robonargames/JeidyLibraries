@@ -1,10 +1,10 @@
 {
-    "name": "com.robonargames.variableextensions",
-    "rootNamespace": "robonargames",
+    "name": "JeidyUtil",
+    "rootNamespace": "",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
-    "allowUnsafeCode": false,
+    "allowUnsafeCode": true,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,

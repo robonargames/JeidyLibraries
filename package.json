@@ -1,16 +1,19 @@
 {
-  "name": "com.robonargames.jeidyutils",
-  "version": "1.0.1",
-  "displayName": "Jeidy Utils",
-  "description": "Jeidy's Utils Library",
-  "unity": "2020.3",
-  "keywords": [
-    "library",
-    "utility"    
-  ],
+  "name": "com.jeidy.sample",
+  "version": "1.0.0",
+  "displayName": "Jeidy Package Test",
+  "description": "This is an Jeidy Package example package",
+  "unity": "2021.3",
   "author": {
     "name": "Jeidy",
-    "email": "Jeidy@jeidy.com",
-    "url": "http://"
-  }
+    "email": "jeidy@example.com",
+    "url": "https://www.jeidy.com"
+  },
+  "samples" : [
+    {
+	"displayName" : "UUnified",
+	"description" : "Unified Sample",
+	"path" : "Samples~/IUnified"
+    }
+  ]
 }
